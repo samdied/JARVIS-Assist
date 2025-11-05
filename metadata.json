@@ -1,0 +1,9 @@
+{
+  "name": "Copy of J.A.R.V.I.S. Absolute Mode Assistant",
+  "description": "A sophisticated AI assistant powered by Google Gemini, operating in J.A.R.V.I.S. Absolute Mode. It provides real-time voice interactions, image generation and editing, advanced content analysis, up-to-date information retrieval via Google Search and Maps, and comprehensive audio utilities, all delivered with logical precision and a formal demeanor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
